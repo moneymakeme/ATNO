@@ -1,0 +1,20 @@
+h3{
+    color: turquoise;
+}
+div{
+    background-color: teal;
+    text-align: center;
+    padding-top: .95px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+}
+#style{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',verdana;
+   background-color:white;
+   margin: 10%;
+   padding-left: 25px;
+   padding-right: 25px;
+}
+img{
+    border-radius: 25px;
+}
